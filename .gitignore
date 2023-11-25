@@ -1,11 +1,11 @@
-BlackJackColumns/Library/*
-BlackJackColumns/UserSettings/*
+RedCock/Library/*
+RedCock/UserSettings/*
 
-BlackJackColumns/[Tt]emp/
-BlackJackColumns/[Oo]bj/
-BlackJackColumns/[Bb]uild/
-BlackJackColumns/[Bb]uilds/
-BlackJackColumns/[Ll]ogs/
+RedCock/[Tt]emp/
+RedCock/[Oo]bj/
+RedCock/[Bb]uild/
+RedCock/[Bb]uilds/
+RedCock/[Ll]ogs/
 
 Assets/AssetStoreTools*
 KSEditorLogs

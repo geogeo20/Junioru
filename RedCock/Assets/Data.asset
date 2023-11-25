@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 689d4c44ffc71fc4caccb20f78ada530, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  Hunger: 1000
+  Thirst: 100
+  Happiness: 100
+  Energy: 100
+  Coins: 500
+  Gold: 10
+  HungerLossRate: 2
+  HappinessLossRate: 5
+  ThirstLossRate: 3
+  EnergyLossRate: 4
+  CoffeReedemPrice: 5000
+  GridItems:
+  - ItemPrice: 5
+    ItemGrade: 0
+    ItemTexture: {fileID: 21300000, guid: ac4624cf0f2d3d342806318c000b6b41, type: 3}
+    MinInOrder: 1
+    MaxInOrder: 10
+  - ItemPrice: 7
+    ItemGrade: 1
+    ItemTexture: {fileID: 21300000, guid: c322a75316b85a348980506a0bc8a9f8, type: 3}
+    MinInOrder: 1
+    MaxInOrder: 7
+  - ItemPrice: 10
+    ItemGrade: 2
+    ItemTexture: {fileID: 21300000, guid: ebb2f4d348d993845b4a57cf4c623218, type: 3}
+    MinInOrder: 0
+    MaxInOrder: 5
+  CharctersOrderingSprites:
+  - {fileID: 21300000, guid: 24ec23f73779fb34cbef53e94cceed49, type: 3}
+  - {fileID: 21300000, guid: 797c9ace1666e36469e050c949cdf0f7, type: 3}
+  - {fileID: 21300000, guid: ad97a6c2debfdd9419e9e67fc47a7e4f, type: 3}
+  - {fileID: 21300000, guid: 5dc067e9e183d494f93c7c484e1a985d, type: 3}
+  - {fileID: 21300000, guid: d40a17669d57de1459946fcad4eea44c, type: 3}
+  - {fileID: 21300000, guid: 8efc91471deec694daf4fa9e15463525, type: 3}
+  - {fileID: 21300000, guid: d38252740e4804d47b12682c7af77d4e, type: 3}
+  CharactersName:
+  - Naruto
+  - Peaky
+  - Sunny
